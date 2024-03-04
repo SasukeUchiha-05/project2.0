@@ -24,7 +24,7 @@ function handleLogout (){
   return (
     <nav >
       <div className="cute">
-        <li style={{listStyle:"none",padding:0}}>Euphoria</li>
+        <li style={{listStyle:"none",padding:400}}>Euphoria</li>
             {/* <button className="cute">Euphoria</button> */}
      </div>
       <div>     
